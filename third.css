@@ -1,0 +1,41 @@
+.one{
+    
+    background-color: rgb(0, 0, 0);
+    img{
+        width:150px;
+        border-radius: 2rem;
+    }
+    h2{
+        color:rgb(170, 210, 28);
+    }
+    h3{
+        color:rgb(169, 210, 22)
+    }
+    p{
+        color: azure;
+    }
+    list{
+        color: rgb(0, 255, 13);
+    }
+
+
+    padding: 200px;
+    border-radius: 1rem;
+    margin-bottom: 2rem;
+    
+}
+.two{
+    padding:10px;
+    
+    border-radius:1rem;
+    background-color:#71797E;
+    text-align: center;
+    
+
+}
+.five button{
+    background-color: lightslategray;
+}
+.five button:hover{
+    background-color: rgb(0, 255, 72);
+}
